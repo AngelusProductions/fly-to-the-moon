@@ -10,7 +10,7 @@ Please do not spend more than three to four hours on this project (it's ok if yo
 
 ## Submission
 
-Please fork this repo, and invite us to your fork after you're done completing the project (we can provide you with the github username to invite by email).
+Please fork this repo and push your code to that fork (it will be private to you). When you're done completing the project, please invite us to your fork so that we can review it (we can provide you with the github username to invite by email).
 
 ## Assignment details:
 
