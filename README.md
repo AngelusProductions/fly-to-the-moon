@@ -29,4 +29,3 @@ The aisle in a cabin class is determined by a missing letter in the seats (i.e. 
 Cabin classes should be programmatically generated to support any number of rows / columns.
 
 Please don’t hesitate to reach out if you have any questions! We're excited to see what you're gonna come up with.
->>>>>>> 5e42e9869f8248807e797cf20969746b7059f5fd
