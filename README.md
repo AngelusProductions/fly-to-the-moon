@@ -1,29 +1,3 @@
-<<<<<<< HEAD
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-=======
 # Seats Project
 
 Please do not spend more than three to four hours on this project (it's ok if you don’t have time to finish).
@@ -55,4 +29,3 @@ The aisle in a cabin class is determined by a missing letter in the seats (i.e. 
 Cabin classes should be programmatically generated to support any number of rows / columns.
 
 Please don’t hesitate to reach out if you have any questions! We're excited to see what you're gonna come up with.
->>>>>>> 5e42e9869f8248807e797cf20969746b7059f5fd
