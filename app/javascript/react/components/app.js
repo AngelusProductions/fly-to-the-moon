@@ -1,7 +1,12 @@
 import React from 'react'
+import SeatPickerContainer from '../containers/SeatPickerContainer'
 
-export const App = (props) => {
-  return (<h1>Make It So React</h1>)
+const App = (props) => {
+  return (
+    <div>
+      <SeatPickerContainer />
+    </div>
+  );
 }
 
 export default App
