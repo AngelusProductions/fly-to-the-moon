@@ -1,37 +1,44 @@
+$pink: #E83697;
+$blue: #2164E4;
+$gray: #B2B3B4;
+$eggshell: #DCDDDF;
+
 .first {
    display: grid;
-   grid-template-columns: repeat(5, 20%);
-   grid-template-rows: (4, 25%);
    margin: 20% auto;
-   width: 15%;
 }
 
 .seat {
   width: 2rem;
   height: 2rem;
-  margin: 5% 10% 30% 20%;
-  background: #DCDDDF;
   border-radius: 2%;
+  background: $eggshell;
+}
+
+.aisle {
+  background: none;
+  padding: 15% 20%;
 }
 
 .letter {
   padding: 20% 40%;
-  font-family: 'Helvetica';
-  font-weight: bold;
-  color: #B2B3B4;
-  text-align: center;
 }
 
-.middle {
+.aisle, .seat {
+  margin: 5% 10% 30% 20%;
+}
+
+.aisle, .letter {
+  color: $gray;
   font-family: 'Helvetica';
   font-weight: bold;
-  color: #B2B3B4;
   text-align: center;
-  background: none;
-  padding-top: 15%;
-  padding-left: 10%;
 }
 
 .taken {
-  background: #2164E4;
+  background: $blue;
+}
+
+.selected {
+  background: $pink;
 }
