@@ -1,10 +1,10 @@
 import React from 'react'
-import SeatPickerContainer from '../containers/SeatPickerContainer'
+import Plane from '../containers/Plane'
 
 const App = (props) => {
   return (
     <div>
-      <SeatPickerContainer />
+      <Plane />
     </div>
   );
 }
