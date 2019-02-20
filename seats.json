@@ -1,1862 +1,1862 @@
 [
   {
-    "seat": "C",
+    "letter": "C",
     "row": 13,
-    "class": "Business",
+    "section": "Business",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 3,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 25,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 37,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 10,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 42,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 39,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 23,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 9,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 36,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 20,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 33,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 16,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 10,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 6,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 29,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 12,
-    "class": "Business",
+    "section": "Business",
     "occupied": false
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 34,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 22,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 2,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 17,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 9,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 16,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 37,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 39,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 41,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 8,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 43,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 12,
-    "class": "Business",
+    "section": "Business",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 11,
-    "class": "Business",
+    "section": "Business",
     "occupied": false
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 28,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 34,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 16,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 19,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 27,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 38,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 17,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 22,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 35,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 39,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 40,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 27,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 45,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 33,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 30,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 22,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 39,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 22,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 36,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 27,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 35,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 1,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 36,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 41,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 43,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 9,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 7,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 21,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 40,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 33,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 42,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 3,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 10,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 30,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 19,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 26,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 30,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 22,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 43,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 32,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 28,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 40,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 38,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 37,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 36,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 14,
-    "class": "Business",
+    "section": "Business",
     "occupied": true
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 28,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 31,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 15,
-    "class": "Business",
+    "section": "Business",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 35,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 19,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 27,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 8,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 19,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 37,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 31,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 36,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 18,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 38,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 44,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 36,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 30,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 31,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 13,
-    "class": "Business",
+    "section": "Business",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 25,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 38,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 23,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 19,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 25,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 15,
-    "class": "Business",
+    "section": "Business",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 41,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 29,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 43,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 1,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 26,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 18,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 2,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 23,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 33,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 12,
-    "class": "Business",
+    "section": "Business",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 25,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 26,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 37,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 30,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 40,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 34,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 10,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 38,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 14,
-    "class": "Business",
+    "section": "Business",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 43,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 36,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 23,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 29,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 33,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 45,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 25,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 16,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 40,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 11,
-    "class": "Business",
+    "section": "Business",
     "occupied": true
   },
   {
-    "seat": "C",
+    "letter": "C",
     "row": 12,
-    "class": "Business",
+    "section": "Business",
     "occupied": true
   },
   {
-    "seat": "C",
+    "letter": "C",
     "row": 15,
-    "class": "Business",
+    "section": "Business",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 26,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 13,
-    "class": "Business",
+    "section": "Business",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 34,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 24,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 16,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 27,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 17,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 25,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 14,
-    "class": "Business",
+    "section": "Business",
     "occupied": true
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 28,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 21,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 29,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 44,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 15,
-    "class": "Business",
+    "section": "Business",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 44,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 42,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 42,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 9,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 18,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 15,
-    "class": "Business",
+    "section": "Business",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 13,
-    "class": "Business",
+    "section": "Business",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 30,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 43,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 17,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 17,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 2,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 17,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 23,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 33,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "C",
+    "letter": "C",
     "row": 11,
-    "class": "Business",
+    "section": "Business",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 2,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 24,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 38,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 15,
-    "class": "Business",
+    "section": "Business",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 40,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 32,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 4,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 19,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 22,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 14,
-    "class": "Business",
+    "section": "Business",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 22,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 27,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 24,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 4,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 40,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 30,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 21,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 43,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 32,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 21,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "C",
+    "letter": "C",
     "row": 14,
-    "class": "Business",
+    "section": "Business",
     "occupied": false
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 32,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 21,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 29,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 39,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 19,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 45,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 18,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 20,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 23,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 12,
-    "class": "Business",
+    "section": "Business",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 13,
-    "class": "Business",
+    "section": "Business",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 41,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 3,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 31,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 31,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 35,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 26,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 27,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 5,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 40,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 28,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 4,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 20,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 34,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 41,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 31,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 45,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 29,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 11,
-    "class": "Business",
+    "section": "Business",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 23,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 34,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 41,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 35,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 33,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 44,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 14,
-    "class": "Business",
+    "section": "Business",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 29,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 24,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 45,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 3,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 18,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 20,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 7,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 45,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 37,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 12,
-    "class": "Business",
+    "section": "Business",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 34,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 25,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 26,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 18,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 28,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 21,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 21,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 17,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 30,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 35,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 20,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 8,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 25,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 16,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 32,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 44,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 5,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 18,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 24,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 37,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 6,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 16,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 39,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 17,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 26,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 32,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 39,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 42,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 34,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 27,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 35,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 20,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 38,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 44,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 7,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 31,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 18,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 26,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 44,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 24,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 6,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 35,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 5,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 13,
-    "class": "Business",
+    "section": "Business",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 1,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 42,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 19,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 24,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 8,
-    "class": "First",
+    "section": "First",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 5,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 39,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 41,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 41,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 28,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 44,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 23,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 24,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 43,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 21,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 6,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "I",
+    "letter": "I",
     "row": 42,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 1,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 20,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 29,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 45,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 45,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 28,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "D",
+    "letter": "D",
     "row": 20,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "J",
+    "letter": "J",
     "row": 16,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 32,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 42,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 32,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 7,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 4,
-    "class": "First",
+    "section": "First",
     "occupied": true
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 22,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 33,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 11,
-    "class": "Business",
+    "section": "Business",
     "occupied": false
   },
   {
-    "seat": "B",
+    "letter": "B",
     "row": 31,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "E",
+    "letter": "E",
     "row": 36,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": false
   },
   {
-    "seat": "A",
+    "letter": "A",
     "row": 11,
-    "class": "Business",
+    "section": "Business",
     "occupied": true
   },
   {
-    "seat": "F",
+    "letter": "F",
     "row": 37,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   },
   {
-    "seat": "G",
+    "letter": "G",
     "row": 38,
-    "class": "Economy",
+    "section": "Economy",
     "occupied": true
   }
 ]
