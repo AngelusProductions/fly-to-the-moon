@@ -1,37 +1,44 @@
 import React from 'react'
 
-const Business = ( props => {
+const Section = ( props => {
 
-  const ALPHABET = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
+  const ALPHABET = ("ABCDEFGHIJKLMNOPQRSTUVWXYZ").split("")
   const rows = props.dimensions[0]
-  const columns = props.dimensions[1] + 1
-  const aisleIndex = Math.floor(columns / 2)
+  const section = props.section
   const seatsOffset = props.seats[0].id - 1
   const rowsOffset = props.rowsOffset
 
   let i, j, k, l, seatClass, number, onClick, id, key
   let seats = [], letters = [], occupiedSeatIds = []
-  let offset = 0
+  let columns = props.dimensions[1] + 1
+  let aisleIndicies = [Math.floor(columns / 2)]
+  let keyOffset = 0
+
+  const aisleInset = Math.floor(columns / 3)
+  if (props.section === "economy") {
+    columns += 1
+    aisleIndicies = [aisleInset - 1, columns - aisleInset]
+  }
 
   props.seats.forEach( seat => { if (seat.occupied) { occupiedSeatIds.push(seat.id) } })
 
   function drawLetters (i) {
     let letter = ""
-    if (i != aisleIndex) { letter = ALPHABET[i] }
+    if (!aisleIndicies.includes(i)) { letter = ALPHABET[i] }
     letters.push( <div className="letter" key={i}>{letter}</div> )
   }
 
   function drawRows (columns, rowNum) {
     for (j = 0; j < columns; j++) {
       key = (j + 1) + (rowNum - 1) * columns + seatsOffset
-      if (j === aisleIndex) {
+      if (aisleIndicies.includes(j)) {
         id = null
         number = rowNum + rowsOffset
         seatClass = "aisle"
         onClick = null
-        offset++
+        keyOffset++
       } else {
-        id = key - offset
+        id = key - keyOffset
         number = "";
         seatClass = "seat"
         onClick = props.selectSeat
@@ -54,13 +61,13 @@ const Business = ( props => {
 
   const widthPercent = columns * 2.5 + 5
   let style = <style dangerouslySetInnerHTML={{__html: `
-                .business {
+                .${section} {
                   grid-template-columns: repeat(${columns}, 1fr);
                   width: ${widthPercent}%;
                 }
               `}} />
  return(
-   <div className="business">
+   <div className={section}>
     {letters}
     {seats}
     {style}
@@ -68,4 +75,4 @@ const Business = ( props => {
  )
 })
 
-export default Business
+export default Section
