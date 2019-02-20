@@ -3,6 +3,12 @@ $blue: #2164E4;
 $gray: #B2B3B4;
 $eggshell: #DCDDDF;
 
+body {
+  animation: fade-in 2s;
+  -webkit-animation: fade-in 2s;
+  transition-timing-function: linear;
+}
+
 .first,
 .business,
 .economy {
@@ -86,4 +92,13 @@ $eggshell: #DCDDDF;
   100% {
     -webkit-box-shadow: 0 0 0 0 rgba(232, 54, 151, 0);
   }
+}
+
+@keyframes fade-in {
+    from { filter: opacity(0); }
+    to   { filter: opacity(10); }
+}
+@-webkit-keyframes fade-in {
+    from { filter: opacity(0); }
+    to   { filter: opacity(1); }
 }
