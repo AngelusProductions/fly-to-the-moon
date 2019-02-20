@@ -41,51 +41,49 @@ class Plane extends Component {
 
   render() {
     let first = "", business = "", economy = ""
-    let audio = <audio id="audio" src="https://s3.amazonaws.com/seats-project/SFX/pop.mp3" />
 
-    if (this.state.seats.length > 0) {
-      const firstSeats = this.state.seats.filter( seat => seat.section === "First" )
-      const businessSeats = this.state.seats.filter( seat => seat.section === "Business" )
-      const economySeats = this.state.seats.filter( seat => seat.section === "Economy" )
+        if (this.state.seats.length > 0) {
+          const firstSeats = this.state.seats.filter( seat => seat.section === "First" )
+          const businessSeats = this.state.seats.filter( seat => seat.section === "Business" )
+          const economySeats = this.state.seats.filter( seat => seat.section === "Economy" )
 
-      const firstRows = this.state.firstDimensions[0]
-      const businessRows = this.state.businessDimensions[0]
+          const firstRows = this.state.firstDimensions[0]
+          const businessRows = this.state.businessDimensions[0]
 
-      const firstRowsOffset = 0
-      const businessRowsOffset = firstRows
-      const economyRowsOffset = businessRowsOffset + businessRows
+          const firstRowsOffset = 0
+          const businessRowsOffset = firstRows
+          const economyRowsOffset = businessRowsOffset + businessRows
 
-      first =     <Section
-                    seats={firstSeats}
-                    section={"first"}
-                    selectSeat={this.selectSeat}
-                    selectedSeatId={this.state.selectedSeatId}
-                    dimensions={this.state.firstDimensions}
-                    rowsOffset={firstRowsOffset}
-                  />
-      business = <Section
-                    seats={businessSeats}
-                    section={"business"}
-                    selectSeat={this.selectSeat}
-                    selectedSeatId={this.state.selectedSeatId}
-                    dimensions={this.state.businessDimensions}
-                    rowsOffset={businessRowsOffset}
-                  />
-      economy = <Section
-                    seats={economySeats}
-                    section={"economy"}
-                    selectSeat={this.selectSeat}
-                    selectedSeatId={this.state.selectedSeatId}
-                    dimensions={this.state.economyDimensions}
-                    rowsOffset={economyRowsOffset}
-                  />
-      }
+          first =     <Section
+                        seats={firstSeats}
+                        section={"first"}
+                        selectSeat={this.selectSeat}
+                        selectedSeatId={this.state.selectedSeatId}
+                        dimensions={this.state.firstDimensions}
+                        rowsOffset={firstRowsOffset}
+                      />
+          business = <Section
+                        seats={businessSeats}
+                        section={"business"}
+                        selectSeat={this.selectSeat}
+                        selectedSeatId={this.state.selectedSeatId}
+                        dimensions={this.state.businessDimensions}
+                        rowsOffset={businessRowsOffset}
+                      />
+          economy = <Section
+                        seats={economySeats}
+                        section={"economy"}
+                        selectSeat={this.selectSeat}
+                        selectedSeatId={this.state.selectedSeatId}
+                        dimensions={this.state.economyDimensions}
+                        rowsOffset={economyRowsOffset}
+                      />
+          }
     return (
       <div>
         {first}
         {business}
         {economy}
-        {audio}
       </div>
     )
   }
