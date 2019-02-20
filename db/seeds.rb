@@ -1,4 +1,3 @@
-require 'pry'
 require 'json'
 
 json = File.read('seats.json')
